@@ -1,0 +1,9 @@
+F:\tp2\Casartelli.Franco.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+F:\tp2\Casartelli.Franco.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+F:\tp2\Casartelli.Franco.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+F:\tp2\Casartelli.Franco.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
+F:\tp2\Casartelli.Franco.2D.TP3\Excepciones\obj\Debug\Excepciones.csprojResolveAssemblyReference.cache
+E:\tp2\Casartelli.Franco.2D.TP3\Excepciones\bin\Debug\Excepciones.dll
+E:\tp2\Casartelli.Franco.2D.TP3\Excepciones\bin\Debug\Excepciones.pdb
+E:\tp2\Casartelli.Franco.2D.TP3\Excepciones\obj\Debug\Excepciones.dll
+E:\tp2\Casartelli.Franco.2D.TP3\Excepciones\obj\Debug\Excepciones.pdb
